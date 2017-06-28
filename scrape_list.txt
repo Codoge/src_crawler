@@ -1,0 +1,10 @@
+https://www.npmjs.com/
+https://metacpan.org/
+https://packagist.org/
+https://atmospherejs.com/
+https://pub.dartlang.org/packages
+https://lib.haxe.org/t/js/
+https://bower.io/search/
+https://atom.io/packages
+https://clojars.org/
+https://hex.pm/packages
